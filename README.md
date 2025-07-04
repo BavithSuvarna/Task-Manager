@@ -11,8 +11,8 @@
 
 ## Tech Stack
 
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js with Express
 - **Database**: MongoDB with Mongoose for database interaction
 - **Authentication**: JWT (JSON Web Tokens)
 - **Hosting**: Vercel (Frontend), Render (Backend)
