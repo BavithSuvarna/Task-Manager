@@ -45,11 +45,11 @@
    npm install
    ```
 5. Set up Environment Variables
-     Create a .env file inside the server/ directory and add the following:
-       PORT=5000
-       MONGO_URI=your_mongodb_connection_string
-       JWT_SECRET=your_jwt_secret
-     If you have environment-specific frontend URLs or API endpoints, you may also configure .env in the client/ directory.
+     - Create a .env file inside the server/ directory and add the following:
+       - PORT=5000
+       - MONGO_URI=your_mongodb_connection_string
+       - JWT_SECRET=your_jwt_secret
+     - If you have environment-specific frontend URLs or API endpoints, you may also configure .env in the client/ directory.
 6. Start the application:
      Start the backend server:
      ```bash
